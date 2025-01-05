@@ -1,7 +1,7 @@
 # Transfer-SD-3.5
 
 ## Project Introduction
-This project showcases the capabilities of Generative AI for controllable video generation in HDR, with a focus on adapting the **Dense Diffusion method** to **Stable Diffusion v3.5**.
+This project aims to demonstrate the capabilities of Generative AI for Controllable Image Generation, focusing on transferring the **Dense Diffusion method** to **Stable Diffusion v3.5**.
 
 ## File Description
 
